@@ -1,0 +1,14 @@
+#cargando {
+	display: flex;
+	position: absolute;
+	height: 100%;
+	width: 100%;
+	align-items: center;
+	justify-content: center;
+	background-color: lightgray;
+	z-index: 9000;
+	opacity: 0.4;
+	margin: 0;
+	left: 0;
+	top: 0;
+}
